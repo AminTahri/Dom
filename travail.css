@@ -1,0 +1,109 @@
+html{
+    background-image: url(http://leblogdemonsieur.com/wp-content/uploads/2013/08/arriere-plan-pour-site-web-2-0-1920x12001.jpg);
+}
+
+
+table{
+    width: 1300px;
+    margin-top: -20px;
+    margin-left: 100px;
+    
+    
+}
+
+img{
+    width: 30%;
+}
+
+.boutton{
+    display: flex;
+    justify-content: space-between;
+}
+
+.UnitePrice{
+ text-align: center;
+ color: #DCC14A;
+ font-size: 20px;
+}
+.Price{
+text-align: center;
+}
+.icon{
+    text-align: center;
+}
+
+.photo{
+    margin-left: 210px;
+    margin-top: 20px;
+}
+
+table{
+   background-image: url(https://www.vape-store.fr/modules/ps_imageslider/images/b4dfd58e32b718569787b6e5502d0f0e685d5d99_dsfdsf.jpg);
+   background-size: cover;
+   opacity: 0.5;
+   border-radius: 5%;
+   
+}
+
+.photo{
+    border-radius: 5%;
+}
+th{
+    color:#DCC14A;
+    font-size: 30px;
+}
+p{
+    color: #DCC14A;
+    font-size: 20px;
+}
+.Price{
+    color: #DCC14A;
+    font-size: 20px;
+}
+
+.plus{
+    font-size: 20px;
+}
+.moin{
+    font-size: 20px;
+    background-color: transparent;
+    width: 40px;
+    margin-top: 10px;
+    height: 40px;
+    color: #DCC14A;
+}
+
+.plus{
+    background-color: transparent;
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    color: #DCC14A;
+}
+.Like:hover{
+    color:red;
+}
+
+.Like{
+   color: palevioletred;
+}
+
+.delete:hover{
+    color: blue;
+}
+td{
+    width: 500px
+}
+img{
+    margin-right: 350px;
+}
+.checked{
+    width: 3px;
+}
+
+h1{
+    color: #DCC14A;
+    font-size: 40px;
+    font-style: italic;
+    
+}
